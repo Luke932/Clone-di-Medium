@@ -1,6 +1,5 @@
 # Medium Clone Project
 
-![Medium Clone Screenshot](medium_clone_screenshot.png)
 Benvenuti nel progetto Medium Clone! Questo progetto è un clone semplificato del famoso sito di pubblicazione di contenuti Medium. È stato realizzato utilizzando HTML, CSS, Bootstrap e alcune funzionalità JavaScript per l'animazione delle lettere "M" nel logo.
 
 ## Funzionalità Principali
